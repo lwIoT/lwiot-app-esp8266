@@ -10,8 +10,8 @@ installed:
 
 The skeleton expects these packages in the `/opt` directory by default:
 
+- IDF in `/opt/esp8266-idf`
 - Compiler in `/opt/xtensa-esp32-elf`
-- IDF in `/opt/esp32-idf`
 
 The following configuration options are available:
 
